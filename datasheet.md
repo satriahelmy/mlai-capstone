@@ -1,4 +1,4 @@
-# 📘 Datasheet for BBO Capstone Project Dataset
+# Datasheet for BBO Capstone Project Dataset
 
 ## Motivation
 This dataset was created to support a Black-Box Optimization (BBO) capstone project as part of Stage 2.  

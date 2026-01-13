@@ -1,4 +1,4 @@
-# 🧠 Model Card for BBO Optimization Surrogate
+# Model Card for BBO Optimization Surrogate
 
 ## Overview
 - **Model Name:** Week10 Transparent Surrogate (MLP-based)
